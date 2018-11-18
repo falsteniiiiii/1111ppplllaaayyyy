@@ -21,12 +21,7 @@
     "simple-youtube-api": "^5.0.2",
     "youtube-info": "^1.2.0",
     "ytdl-core": "^0.21.1"
-  },
-      "moment": {
-      "version": "2.22.2",
-      "resolved": "https://registry.npmjs.org/moment/-/moment-2.22.2.tgz",
-      "integrity": "sha1-PCV/mDn8DpP/UxSWMiOeuQeD/2Y="
-    
+  
   },
 
   "keywords": [
