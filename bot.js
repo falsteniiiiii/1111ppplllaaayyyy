@@ -84,7 +84,6 @@ client.on('message', message => {
   message.channel.sendEmbed(embed);
     }
 });
-    var prefix = "_"
 
 
 client.on('message', message => {
